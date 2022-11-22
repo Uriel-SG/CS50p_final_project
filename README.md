@@ -19,6 +19,7 @@ The **Uriel Code** is a crypto-code created by Uriel-SG in the 2015.
 The method it's really simple: every 'alphanumeric' character corresponds to another.
 
 The correspondence is based on the construction of a cross-shaped drawing.
+
 ![This is an image](small image here)
 
 Example:
@@ -31,6 +32,7 @@ Example:
 ## PDF Generation
 
 If the user wants, it is possible to print the message in a pdf file with the Uriel Code logo.
+
 ![This is an image](small image here)
 
 
