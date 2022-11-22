@@ -38,11 +38,25 @@ If the user wants, it is possible to print the message in a pdf file with the Ur
 
 ## Paranoid Mode
 
-It gives the possibility to **encode** the encrypt message with the base64 method and *viceversa*.
+It gives the possibility to **encode** the encrypt message with the base64 method and *vice-versa*.
 
-Example:
 
-"Welcome to CS50!"
-The program will automatically encrypt the string ("x 2 o d 9 n 2   4 9   d 5 h 0!"), and then:
+
+"*Welcome to CS50!*"
+
+The program will automatically encrypt the string ("*x 2 o d 9 n 2   4 9   d 5 h 0!*"), and then:
 
 > *eCAyIG8gZCA5IG4gMiAgIDQgOSAgIGQgNSBoIDAhIA==*
+
+#### Example:
+##### *Encode-encrypt:*
+
+|  **User input**  |   **Uriel Code**   |       **base64**         |
+| ------------- | -------------  | -------------------- |
+|    Harvard     | s f 6 y f 6 3  | cyBmIDYgeSBmIDYgMyA= |
+
+##### *Decrypt-decode:*
+
+|  **User input**  |   **Uriel Code**   |       **base64**         |
+| ------------- | -------------  | -------------------- |
+|   cyBmIDYgeSBmIDYgMyA=     | s f 6 y f 6 3  | harvard |
