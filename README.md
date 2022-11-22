@@ -1,6 +1,6 @@
 # Uriel Code
 
-![This is an image](https://raw.githubusercontent.com/Uriel-SG/Uriel-Portal/main/uriel-white.png)
+![This is an image](https://raw.githubusercontent.com/Uriel-SG/CS50p_final_project/main/uriel.png?token=GHSAT0AAAAAAB3QWETULNC2CDBDVPFZK2M6Y35KRTQ)
 
 #### Video Demo:
 
