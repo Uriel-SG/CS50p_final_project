@@ -21,7 +21,7 @@ Today it's a *python script* which, starting from a string as *input*, generates
 
 The method it's really simple: every 'alphanumeric' character corresponds to another.
 
-The correspondence is based on the construction of a cross-shaped drawing.
+The correspondence is based on the construction of a *cross-shaped drawing*.
 
 ![This is an image](small image here)
 
