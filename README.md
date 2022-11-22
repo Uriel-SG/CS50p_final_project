@@ -1,6 +1,7 @@
 # Uriel Code
 
-![This is an image](https://raw.githubusercontent.com/Uriel-SG/CS50p_final_project/main/ur.jpg?token=GHSAT0AAAAAAB3QWETVM7GH2LEMON4GW25EY35KXDA)
+![ur](https://user-images.githubusercontent.com/65650311/203441187-50a04764-b993-4c06-bb5a-aa6b65c1bc24.jpg)
+
 
 #### Video Demo:
 
@@ -8,9 +9,11 @@
 
 ## Description:
 
-The **Uriel Code** is a crypto-code created by Uriel-SG in the 2015.
+The **Uriel Code** is a *crypto-code* created by Uriel-SG in the 2015 on a piece of paper.
 
-- It's pretty simple, but useful if you need a *quick and friendly* encryption.
+Today it's a *python script* which, starting from a string as *input*, generates a *"secret message"* (and *viceversa*).
+
+- It's pretty simple, but useful if you need a *quick and friendly "homemade"* encryption.
 - It's easy to use even *without the application* if you understand how it works.
 
 
@@ -31,14 +34,20 @@ Example:
 
 ## PDF Generation
 
-If the user wants, it is possible to print the message in a pdf file with the Uriel Code logo.
+If the user wants, it is possible to print the message in a pdf file with the *Uriel Code logo*.
 
-![This is an image](small image here)
+#### Example:
+
+*Input* --> "Welcome to Harvard cs50 course: introduction to Python Programming"
+
+##### *PDFOutput sample*:
+
+![urielpdf](https://user-images.githubusercontent.com/65650311/203441129-db1d2c74-1dd2-48a4-a826-5419601e00f7.jpg)
 
 
 ## Paranoid Mode
 
-It gives the possibility to **encode** the encrypt message with the base64 method and *vice-versa*.
+It gives the possibility to **encode** the encrypt message with the base64 method and *viceversa*.
 
 
 
@@ -60,3 +69,10 @@ The program will automatically encrypt the string ("*x 2 o d 9 n 2   4 9   d 5 h
 |  **User input**  |   **Uriel Code**   |       **base64**         |
 | ------------- | -------------  | -------------------- |
 |   cyBmIDYgeSBmIDYgMyA=     | s f 6 y f 6 3  | harvard |
+
+## Future
+
+Even if so simple, I really care about this project.
+
+- I'm working on a nice GUI;
+- My brother worked for me on a website
