@@ -1,6 +1,7 @@
 # **Uriel Code**
 
-![ur](https://user-images.githubusercontent.com/65650311/203441187-50a04764-b993-4c06-bb5a-aa6b65c1bc24.jpg)
+![ur](https://user-images.githubusercontent.com/65650311/203445804-31a97ac1-9b33-4ac2-94f8-bee46838d154.jpg)
+
 
 
 #### Video Demo:
@@ -9,7 +10,7 @@
 
 ## Description:
 
-The **Uriel Code** is a *crypto-code* created by Uriel-SG in the 2015 on a piece of paper.
+The **Uriel Code** is a *crypto-code* created by Uriel-SG in 2015 on a piece of paper.
 
 Today it's a *python script* which, starting from a string as *input*, generates a *"secret message"* (and *viceversa*).
 
@@ -47,7 +48,7 @@ If the user wants, it is possible to print the message in a pdf file with the *U
 
 ## Paranoid Mode
 
-It gives the possibility to **encode** the encrypt message with the base64 method and *viceversa*.
+It gives the possibility to **encode** the encrypted message with the base64 method and *viceversa*.
 
 
 
