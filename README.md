@@ -1,4 +1,4 @@
-# Uriel Code
+# **Uriel Code**
 
 ![ur](https://user-images.githubusercontent.com/65650311/203441187-50a04764-b993-4c06-bb5a-aa6b65c1bc24.jpg)
 
@@ -74,5 +74,10 @@ The program will automatically encrypt the string ("*x 2 o d 9 n 2   4 9   d 5 h
 
 Even if so simple, I really care about this project.
 
-- I'm working on a nice GUI;
-- My brother worked for me on a website
+- I'm working on an intresting graphical interface written in tkinter. It's already "*work in progress*" but the idea is to find something more professional, modern, dynamic and interactive;
+- My [brother](https://github.com/Dabolus), a really competent and brilliant programmer, *javascript* expert, worked for me on a website (*written in React*);
+- If my python skills continue and improve, I'd like to write an android application using *kivy*;
+- The "*Paranoid Mode*" will be improved! Now is only a base64 encoding, but it will have a much more complex and useful method, based on a ***simmetric encryption***. The Uriel Code generate will be encrypted with a *key*, and only who has that *key* will be able to decrypt the secret message;
+
+### *That's all folks!*
+*Enjoy it!*
