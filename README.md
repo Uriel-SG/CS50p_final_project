@@ -3,8 +3,6 @@
 ![Urielnewpiccola](https://user-images.githubusercontent.com/65650311/203684846-5fdac103-1dff-4b14-b1ac-50e4d3de05ce.jpg)  
 
 
-
-
 #### Video Demo:
 
 [![Watch the video](https://raw.githubusercontent.com/Uriel-SG/Uriel-Portal/main/example.jpg)](https://youtu.be/8EHYuSfHobg)
