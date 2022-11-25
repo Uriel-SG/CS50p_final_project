@@ -23,7 +23,9 @@ The method it's really simple: every 'alphanumeric' character corresponds to ano
 
 The correspondence is based on the construction of a *cross-shaped drawing*.
 
-![This is an image](small image here)
+![UrielCross](https://user-images.githubusercontent.com/65650311/204042334-c06fe5c1-06bf-4721-aeb1-b5730c0d0073.jpg)
+
+
 
 Example:
 
